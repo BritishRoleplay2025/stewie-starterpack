@@ -1,6 +1,9 @@
 # stewie-starterpack
 Starter Pack For QBcore and QBX Framework
-🎒 Starter Pack – Customizable Starter Items for QBCore
+
+
+
+🎒 Starter Pack – Customizable Starter Items for QBCore And QBX
 Framework: QBCore
 Inventory Support: qb-inventory & ox_inventory
 Dependency:
